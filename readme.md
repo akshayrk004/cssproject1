@@ -31,4 +31,4 @@ Tailwind CSS – Styling and layout
 
 Font Awesome 6.6.0 – Icons
 
-![img](./csspic.png.png)
+![img](./csspic1.png)
